@@ -1,8 +1,8 @@
-### Olá! Eu sou Raphael Matias
+### Hello! I'm Raphael Matias  
 
-
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Análise de Sistemas 3/6
+- Technology, games and music lover
+- 3/6 System Analysis and Development  
+    
 <div align="center">
   <a href="https://github.com/matRaph">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matRaph&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
