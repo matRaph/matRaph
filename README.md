@@ -5,8 +5,8 @@
 - 🌱 Estudante de Análise de Sistemas 3/6
 <div align="center">
   <a href="https://github.com/matRaph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matRaph&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matRaph&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matRaph&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matRaph&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
  
 <div style="display: inline_block"><br>
